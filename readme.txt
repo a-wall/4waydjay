@@ -26,4 +26,4 @@ website: wallspace.no-ip.org/4waydj
 1. processing.org for function reference.
 2. The coursera.org forum (mostly for bug fixes to maxim.js).
 3. WebAudio API: http://www.w3.org/TR/webaudio/
-4. Loops snipped (without permission) from: "Paul Revere" by The Beastie Boys, "Da Da Da" by Trio, "Schematica" by Olmecha Supreme, "Client Eastwood" by Gorillaz.
+4. Loops snipped (without permission) from: "Paul Revere" by The Beastie Boys, "Da Da Da" by Trio, "Schematica" by Olmecha Supreme, "Clint Eastwood" by Gorillaz.
